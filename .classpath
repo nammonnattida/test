@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/appl/custom/misc/lib/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="D:/appl/custom/misc/lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="D:/appl/custom/misc/lib/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="D:/appl/custom/misc/lib/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="/EBillCQSWS/WebContent/WEB-INF/lib/spring-web-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nattb571/git/CdrwebInternalBOSWS/WebContent/WEB-INF/lib/jackson-databind-2.12.3.jar"/>
+	<classpathentry kind="lib" path="/EBillCQSWS/WebContent/WEB-INF/lib/spring-orm-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/EBillCQSWS/WebContent/WEB-INF/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nattb571/git/CdrwebInternalBOSWS/WebContent/WEB-INF/lib/java-common-tools-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/appl/custom/misc/lib/jackson-databind-2.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/appl/custom/misc/lib/jackson-core-2.6.1.jar"/>
+	<classpathentry kind="lib" path="/EBillCQSWS/WebContent/WEB-INF/lib/spring-core-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
